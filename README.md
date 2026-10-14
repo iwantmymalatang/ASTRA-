@@ -4,6 +4,6 @@ Our vision is for radio astronomy to be a globally accessible platform. We provi
 
 Here you will find stl files for 3d designs as well as modifications to other designs
 
-For rotator, please visit SatNOGS for their rotator design as that was what was used
+For rotator, please visit [SatNOGS](https://gitlab.com/librespacefoundation/satnogs/satnogs-rotator/blob/master/rotator-bom.ods) for their rotator design as that was what was used
 
 Visit our website at [ASTRA WORLD](https://astra-world.net/)
