@@ -6,4 +6,4 @@ Here you will find stl files for 3d designs as well as modifications to other de
 
 For rotator, please visit SatNOGS for their rotator design as that was what was used
 
-Visit our website at astra-world.net 
+Visit our website at [ASTRA WORLD](astra-world.net)
