@@ -1,5 +1,8 @@
 # Project Astra
 
+Sean Wang Xingshuo | seanwxsh@gmail.com
+Joash Tse Chek Hei | joashtse@gmail.com
+
 *Radio telescope replication guide*
 
 <details>
